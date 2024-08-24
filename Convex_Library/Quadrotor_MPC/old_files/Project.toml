@@ -1,0 +1,6 @@
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+ECOS = "e2685f51-7e38-5353-a97d-a921fd2c8199"
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
